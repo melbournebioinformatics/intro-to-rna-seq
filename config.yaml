@@ -7,33 +7,16 @@
 # mb: Melbourne Bioinformatics
 # mig: Melbourne Integrative Genomics
 # wehi: Walter and Eliza Hall Institute
-<<<<<<< HEAD
-carpentry: 'uom'
-=======
 carpentry: 'mb'
->>>>>>> origin/student-work
 
 # Alt-text description of the lesson.
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-<<<<<<< HEAD
-title: 'Lesson Title' # FIXME
+title: 'Introduction to RNA-seq analysis'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
-
-# Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson' # FIXME
-
-# Life cycle stage of the lesson
-# possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
-=======
-title: 'RNA seq workshop'
-
-# Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2025-08-13
+created: '2025-08-13'
 
 # Comma-separated list of keywords for the lesson
 keywords: RNA-seq, Biological replicates, Sequencing depth, Biological
@@ -43,27 +26,18 @@ Experimental design
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
 life_cycle: 'alpha'
->>>>>>> origin/student-work
 
 # License of the lesson
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-<<<<<<< HEAD
 source: 'https://github.com/melbournebioinformatics/workbench-template-rmd' # FIXME
-=======
-source: 'https://github.com/melbournebioinformatics/workbench-template-md'
->>>>>>> origin/student-work
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-<<<<<<< HEAD
-contact: 'fixme@fixme.org' # FIXME
-=======
 contact: 'jiayi.si.2[ at ]unimelb.edu.au'
->>>>>>> origin/student-work
 
 # Navigation ------------------------------------------------
 #
@@ -88,19 +62,6 @@ contact: 'jiayi.si.2[ at ]unimelb.edu.au'
 # - another-learner.md
 
 # Order of episodes in your lesson
-<<<<<<< HEAD
-episodes: 
-- introduction.Rmd
-
-# Information for Learners
-learners: 
-
-# Information for Instructors
-instructors: 
-
-# Learner Profiles
-profiles: 
-=======
 episodes:
 - what-is-RNA-seq.Rmd
 - why-is-a-good-experimental-design-vital.Rmd
@@ -118,7 +79,6 @@ instructors:
 
 # Learner Profiles
 profiles:
->>>>>>> origin/student-work
 
 # Customisation ---------------------------------------------
 #
