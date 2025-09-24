@@ -63,6 +63,7 @@ contact: 'jiayi.si.2[ at ]unimelb.edu.au'
 
 # Order of episodes in your lesson
 episodes:
+- introduction.Rmd
 - what-is-RNA-seq.Rmd
 - why-is-a-good-experimental-design-vital.Rmd
 - terminology.Rmd
